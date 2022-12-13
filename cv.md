@@ -1,37 +1,37 @@
-#Vladislav Krivets
+# Vladislav Krivets
 
 
-##My contacts:
+## My contacts:
 
 
-*Discord: Bladedmoon#2078
+* Discord: Bladedmoon#2078
 
-*Phone: +375 33 671-83-37
+* Phone: +375 33 671-83-37
 
-*Email: drugdobryaka@gmail.com
+* Email: drugdobryaka@gmail.com
 
-*Github:[VLADON4UK](https://github.com/VLADON4UK/ "Ссылка на Гитхаб аккаунт")
+* Github:[VLADON4UK](https://github.com/VLADON4UK/ "Ссылка на Гитхаб аккаунт")
 
 
 
-##ABOUT ME
+## ABOUT ME
 
 
 Really interested in programming, now studying in RSSchool and really excited of it. Have good personal skills, not bad team worker, also eager to acquire new knowledge and develop new skills.
 
 
-##SKILLS
+## SKILLS
 
 
-*Basics of HTML
+* Basics of HTML
 
-*Basics of CSS
+* Basics of CSS
 
-*Bacics of Git
+* Bacics of Git
 
-*and of course persistence to new knowledge!
+  * and of course persistence to new knowledge!
 
-##CODE EXAMPLE
+## CODE EXAMPLE
 
 
 ```
@@ -41,19 +41,19 @@ function multiply(a, b){
 ```
 
 
-##EXPERIENCE
+## EXPERIENCE
 
 
-In future!)
+*In future!)*
 
 
-##EDUCATION
+## EDUCATION
 
 
-In progress... ( RSSchool )
+*In progress... ( RSSchool )*
 
 
-##ENGLISH
+## ENGLISH
 
 
 B1
