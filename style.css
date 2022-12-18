@@ -1,3 +1,9 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+}
 body{
   text-align: center;
   color: blueviolet;
@@ -10,13 +16,13 @@ body{
   position: absolute;
   right: 75%;
   top: 152%;
-  margin-top: 190px;
+  margin-top: 1px;
 }
 .git{
   position: absolute;
   left: 80%;
   top: 153%;
-  margin-top: 190px;
+  margin-top: 10px;
 }
 img{
   display: block;
@@ -44,14 +50,14 @@ code{
 }
 .contacts{
   padding: 10px;
-  position: absolute;
-  top: 125px;
-  left: 305px;
+  position: relative;
+  bottom: 220px;
+  right: 400px;
 }
 #myname{
-  position: absolute;
-  left: 250px;
-  top:0px;
+  position: relative;
+  right: 400px;
+  bottom: 240px;
   text-align: center;
   font-size: 74px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -97,24 +103,29 @@ a{
   font-weight: 600;
 }
 footer{
-  margin-top: 150px;
+  margin-top: 10px;
 }
 .webl{
 position: relative;
 right: 12px;  
 }
 .mypic{
-  position: absolute;
-  left: 40px;
-  top: 50px;
+  position: relative;
+  right: 800px;
+  top: 10px;
 }
 header{
-  padding-top: 40px;
   margin: auto;
   background-color: bisque;
   width: auto;
-  height: 300px;
+  height: 450px;
 }
 .links{
-  position: relative;
+  background-color: blanchedalmond;
+  margin: 0 auto;
+}
+.kepka{
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
 }
